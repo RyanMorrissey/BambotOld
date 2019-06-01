@@ -1,0 +1,127 @@
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\obj\Debug\BamBot.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\BamBot.exe.config
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\BamBot.exe
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\BamBot.pdb
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Discord.Net.Commands.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Discord.Net.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Nito.AsyncEx.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\RestSharp.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\WebSocket4Net.dll
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Nito.AsyncEx.xml
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\RestSharp.xml
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\obj\Debug\BamBot.exe
+c:\users\ryan\documents\visual studio 2017\Projects\BamBot\BamBot\obj\Debug\BamBot.pdb
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\extra1.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\extra2.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei1.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei10.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei11.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei12.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei13.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei14.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei15.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei16.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei17.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei18.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei19.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei2.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei20.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei21.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei22.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei23.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei24.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei25.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei26.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei27.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei28.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei29.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei3.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei30.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei31.mp4
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei32.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei33.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei34.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei35.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei36.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei37.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei38.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei39.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei4.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei40.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei41.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei42.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei43.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei44.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei45.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei46.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei47.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei48.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei49.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei5.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei50.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei51.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei52.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei53.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei54.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei55.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei56.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei57.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei58.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei59.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei6.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei60.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei61.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei62.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei63.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei64.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei65.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei66.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei67.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei68.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei69.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei7.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei70.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei71.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei72.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei73.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei74.png
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei8.jpg
+C:\Users\Ryan\documents\visual studio 2017\Projects\BamBot\BamBot\bin\Debug\mei\mei9.png
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\BamBot.exe.config
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\BamBot.exe
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\BamBot.pdb
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\RestSharp.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\RestSharp.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\obj\Debug\BamBot.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\BamBot\BamBot\obj\Debug\BamBot.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\BamBot\BamBot\obj\Debug\BamBot.csproj.CopyComplete
+C:\Users\Ryan\source\repos\BamBot\BamBot\obj\Debug\BamBot.exe
+C:\Users\Ryan\source\repos\BamBot\BamBot\obj\Debug\BamBot.pdb
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ryan\source\repos\BamBot\BamBot\bin\Debug\System.Interactive.Async.xml
