@@ -31,7 +31,6 @@ namespace BamBot.Services
 
         public async Task MessageReceivedAsync(SocketMessage rawMessage)
         {
-            Console.WriteLine(rawMessage);
             // Ignore system messages, or messages from other bots
             if (!(rawMessage is SocketUserMessage message)) return;
             if (message.Source != MessageSource.User) return;
