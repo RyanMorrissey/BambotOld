@@ -11,13 +11,6 @@ namespace BamBot.Services
     public class PictureService
     {
         private readonly HttpClient _http;
-        private readonly string[] _lewd = new string[]
-        {
-            "https://gfycat.com/WindingAccurateBlackwidowspider", // Girls kissing girls
-            "http://i.imgur.com/pP03F4I.gifv", // Suprise Hotdog
-            "https://www.youtube.com/watch?v=xNzJnv_EFZw", // Ass Slap
-            "https://fat.gfycat.com/OffensiveWindyBlackpanther.webm" // Thighs
-        };
 
         private readonly string[] _reminder = new string[]
         {
@@ -56,12 +49,6 @@ namespace BamBot.Services
         {
             int randomIndex = _rand.Next(_reminder.Length);
             return _reminder[randomIndex];
-        }
-
-        public string GetLewd()
-        {
-            int randomIndex = _rand.Next(_lewd.Length);
-            return _lewd[randomIndex];
         }
     }
 }

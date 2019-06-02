@@ -37,7 +37,7 @@ namespace BamBot.Services
 
             // This value holds the offset where the prefix ends
             var argPos = 0;
-            //if (!message.HasCharPrefix('-', ref argPos)) return;
+            if (!message.HasCharPrefix('-', ref argPos)) return;
 
             var context = new SocketCommandContext(_discord, message);
             await _commands.ExecuteAsync(context, argPos, _services);

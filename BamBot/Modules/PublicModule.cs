@@ -3,12 +3,15 @@ using System.Threading.Tasks;
 using Discord;
 using Discord.Commands;
 using BamBot.Services;
+using System;
+using System.Reflection;
 
 namespace Bambot.Services
 {
     public class PublicModule : ModuleBase<SocketCommandContext>
     {
-        public PictureService PictureService { get; set; }
+        public PictureService _pictureService { get; set; }
+        public Random _rand = new Random();
 
         [Command("ping")]
         [Alias("pong", "hello")]
@@ -20,7 +23,7 @@ namespace Bambot.Services
         public async Task CatAsync()
         {
             // Get a stream containing an image of a cat
-            var stream = await PictureService.GetCatPictureAsync();
+            var stream = await _pictureService.GetCatPictureAsync();
             var embed = new EmbedBuilder
             {
                 // Embed property can be set within object initializer
@@ -31,18 +34,19 @@ namespace Bambot.Services
             await ReplyAsync(embed: embed.Build());
         }
 
-        [Command("mei34")]
-        public async Task Mei34()
-        { 
+        [Command("dog")]
+        [Alias("woof", "bark")]
+        public async Task DogAsync()
+        {
+            var dogPic = await _pictureService.GetDogPictureAsync();
             var embed = new EmbedBuilder
             {
-                // Embed property can be set within object initializer
-                ImageUrl = "https://i.imgur.com/YBcH09N.jpg",
+                ImageUrl = dogPic,
                 Color = Color.Green,
-                Title = "You are better than this."
+                Title = "<:Hypers:527269530079330315>"
+
             };
             await ReplyAsync(embed: embed.Build());
-            await ReplyAsync("https://www.youtube.com/watch?v=ZtQeTs8NfIE");
         }
 
         [Command("test")]
@@ -57,38 +61,22 @@ namespace Bambot.Services
                 // Embed property can be set within object initializer
                 Title = "<:Hypers:527269530079330315>",
             Description = "I am a description set by initializer."
+
             };
             await ReplyAsync(embed: embed.Build());
         }
 
-        [Command("dog")]
-        [Alias("woof", "bark")]
-        public async Task DogAsync()
+        [Command("mokou")]
+        public async Task Mokou()
         {
-            // Get a stream containing an image of a cat
-            var stream = await PictureService.GetDogPictureAsync();
-            var embed = new EmbedBuilder
-            {
-                // Embed property can be set within object initializer
-                ImageUrl = stream,
-                Color = Color.Green,
-                Title = "<:Hypers:527269530079330315>"
-
-            };
-            await ReplyAsync(embed: embed.Build());
+            Random rand = new Random();
+            await Context.Channel.SendFileAsync(String.Format("../../Images/Mokou/mokou{0}.jpg", new Random().Next(1, 196)));
         }
 
         [Command("reminder")]
         public async Task ReminderAsync()
         {
-            var reminderImage = PictureService.GetReminder();
-            await ReplyAsync(reminderImage);
-        }
-
-        [Command("lewd")]
-        public async Task LewdAsync()
-        {
-            var reminderImage = PictureService.GetLewd();
+            var reminderImage = _pictureService.GetReminder();
             await ReplyAsync(reminderImage);
         }
 
